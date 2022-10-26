@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://jesacalin.github.io/img-repo/logo-small.png" align="center" />
+<img src="https://jesacalin.github.io/img-repo/logo-small.png" align="center" width="200" />
 </div>  
   
 
