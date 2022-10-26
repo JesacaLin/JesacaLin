@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">My name is Jesaca and I'm a Front-End developer with experience in design and photography. <br> Let's create something beautiful together! 🔥 </div>  
+### <div align="center">I'm Jesaca, a Front-End developer with experience in design and photography. <br> Let's build something beautiful together! 🌟 </div>  
   <br>
   <br>
 
