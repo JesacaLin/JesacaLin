@@ -4,7 +4,8 @@
   
 
 ### <div align="center">Hey there! My name is Jesaca and I'm a Front-End developer <br> with a background in design and photography.</div>  
-  
+  <br>
+  <br>
 
 - 🐯 I’m currently working on an interview prep platform for devs: [Dev Kitty](https://github.com/JesacaLin/dev-kitty)  
   
