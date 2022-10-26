@@ -7,16 +7,16 @@
   <br>
   <br>
 
-- 🐯 I’m currently working on an interview prep platform for devs: [Dev Kitty](https://github.com/JesacaLin/dev-kitty)  
+- 🐯 My current passion project is Dev Kitty, a full stack interview prep application for fellow developers. 👉 [Here](https://github.com/JesacaLin/dev-kitty)  
   
 
-- 📚 I’m currently learning TypeScript and React.  
+- 📚 At the moment I'm learning TypeScript and React.  
   
 
-- ❓ Ask me how my HackerRank 30 Days of Code journey is going.  
+- ❓ Ask me how my HackerRank 30 Days of Code journey is going... Please bring popcorn!  
   
 
-- ⚡ Fun fact: I have wilderness survival training. Let me know if you need a campfire!  
+- ⚡ Fun fact: I have wilderness survival training. Let me know if you ever need a campfire!  
   
 
 <br/>  
