@@ -67,6 +67,15 @@
 <br/>  
 
 
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=JesacaLin&show_icons=true&count_private=true&hide_border=true&theme=swift" align="center" /></div>  
+<br>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesacaLin&layout=compact)" align="center" /></div>  
+
+<br/>  
+
+
+
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/JesacaLin" target="_blank">
@@ -80,13 +89,5 @@
 </a>  
 </div>  
   
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=JesacaLin&show_icons=true&count_private=true&hide_border=true&theme=swift" align="center" /></div>  
-<br>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesacaLin&layout=compact)" align="center" /></div>  
 
 
