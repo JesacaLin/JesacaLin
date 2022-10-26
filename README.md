@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hey there! My name is Jesaca and I'm a Front-End developer <br> with a background in design and photography.</div>  
+### <div align="center">My name is Jesaca and I'm a Front-End developer with experience in design and photography. <br> Let's create something beautiful together! 🔥 </div>  
   <br>
   <br>
 
@@ -13,7 +13,7 @@
 - 📚 I’m currently learning TypeScript and React.  
   
 
-- ❓ Ask me how my HackerRank 30 Days of Code journey is going...😅  
+- ❓ Ask me how my HackerRank 30 Days of Code journey is going.  
   
 
 - ⚡ Fun fact: I have wilderness survival training. Let me know if you need a campfire!  
