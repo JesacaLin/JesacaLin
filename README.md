@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://jesacalin.github.io/img-repo/logo-small.png" align="center" width="200" />
+<img src="https://jesacalin.github.io/img-repo/logo-small.png" align="center" width="100" />
 </div>  
   
 
@@ -9,7 +9,7 @@
 - 🐯 I’m currently working on an interview prep platform for devs: [Dev Kitty](https://github.com/JesacaLin/dev-kitty)  
   
 
-- 📚 I’m currently learning TypeScript and React  
+- 📚 I’m currently learning TypeScript and React.  
   
 
 - ❓ Ask me how my HackerRank 30 Days of Code journey is going...😅  
