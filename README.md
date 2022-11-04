@@ -8,9 +8,11 @@
   <br>
 
 - 🐯 My current passion project is Dev Kitty, a full stack interview prep application for fellow developers. 👉 [Here](https://github.com/JesacaLin/dev-kitty)  
+
+- 😃 Open to freelance and full-time opportunities in web development. Get in touch!  
   
 
-- 📚 At the moment I'm learning TypeScript and React.  
+- 📚 Currently learning TypeScript and React.  
   
 
 - ❓ Ask me how my HackerRank 30 Days of Code journey is going... Please bring popcorn!  
