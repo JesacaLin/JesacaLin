@@ -46,7 +46,7 @@
 
 ## Meme of the day  
 <div align="center">
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." width="30%">
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." width="35%">
 </div> 
 
 
