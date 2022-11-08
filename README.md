@@ -15,10 +15,6 @@
   
 
 - ❓ Ask me how my HackerRank 30 Days of Code journey is going... Please bring popcorn!  
-  
-
-- ⚡ Fun fact: I have wilderness survival training. Let me know if you ever need a campfire!  
-  
 
 <br/>  
 
