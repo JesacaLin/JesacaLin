@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Jesaca, a Full Stack Web Developer with experience in design and photography. <br> Let's build something beautiful together! 🌟 </div>  
+#### <div align="center">I'm Jesaca, a creative full stack developer with experience in design, photography, and UI/UX. I am passionate about solving real world problems by creating useful and accessible web applications for everyone. Because of my 10+ years in the visual field as a Photo Editor and Producer, I am able to take a project from ideation and wireframes to a polished end product by creating a responsive frontend and a working backend. <br><br>When I’m not coding, I am practicing archery and learning about wildlife survival. Humble brag: I started a fire with flint on my first try! <br><br></div>  
   <br>
   <br>
 
