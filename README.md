@@ -23,27 +23,28 @@
 <br>
 
 <div align="left">  
-<div><a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://jesacalin.github.io/img-repo/bootstrap.svg" alt="Bootstrap" height="35" /></a><span> Bootstrap</span> </div>
-
-<div><a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://jesacalin.github.io/img-repo/css.png" alt="CSS3" height="36" /></a><span>CSS 3</span></div> 
   
-<div><a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://jesacalin.github.io/img-repo/html.png" alt="HTML5" height="35" /></a><span> HTML 5 </span></div> 
+<div><a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://jesacalin.github.io/img-repo/html.png" alt="HTML5" height="35" /></a><span>  HTML 5</span></div> 
   
- <div><a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://jesacalin.github.io/img-repo/js-2.svg" alt="JavaScript" height="15" /></a><span>  JavaScript</span></div> 
+<div><a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://jesacalin.github.io/img-repo/css.png" alt="CSS3" height="36" /></a><span>  CSS 3</span></div> 
+  
+<div><a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://jesacalin.github.io/img-repo/js-2.svg" alt="JavaScript" height="27" /></a><span>    JavaScript</span></div> 
  
- <div><a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://jesacalin.github.io/img-repo/tailwind.svg" alt="Tailwind CSS" height="35" /></a><span> Tailwind CSS</span></div>
+<div><a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://jesacalin.github.io/img-repo/tailwind.svg" alt="Tailwind CSS" height="35" /></a><span> Tailwind CSS</span></div>
   
-<div><a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://jesacalin.github.io/img-repo/git.svg" alt="Git" height="30" /></a><span> Git</span></div>
+<div><a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://jesacalin.github.io/img-repo/bootstrap.svg" alt="Bootstrap" height="30" /></a><span>  Bootstrap</span> </div>
 
-<div><a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://jesacalin.github.io/img-repo/node.svg" alt="Node.js" height="30" /></a><span> Node JS</span></div>  
+<div><a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://jesacalin.github.io/img-repo/node.svg" alt="Node.js" height="30" /></a><span>  Node JS</span></div>  
   
-<div><a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://jesacalin.github.io/img-repo/express.svg" alt="Express.js" height="30" /></a><span> Express JS</span></div>
+<div><a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://jesacalin.github.io/img-repo/express.svg" alt="Express.js" height="30" /></a><span>  Express JS</span></div>
   
-<div><a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://jesacalin.github.io/img-repo/mongodb.svg" alt="MongoDB" height="30" /></a><span> MongoDB</span></div>   
+<div><a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://jesacalin.github.io/img-repo/mongodb.svg" alt="MongoDB" height="30" /></a><span>  MongoDB</span></div> 
   
-<div><a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://jesacalin.github.io/img-repo/figma.svg" alt="Figma" height="30" /></a><span> Figma</span></div> 
+<div><a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://jesacalin.github.io/img-repo/git.svg" alt="Git" height="30" /></a><span>  Git</span></div>
   
-<div><a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://jesacalin.github.io/img-repo/photoshop.png" alt="Photoshop" height="25" /></a><span> Photoshop</span></div>
+<div><a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://jesacalin.github.io/img-repo/figma.svg" alt="Figma" height="30" /></a><span>  Figma</span></div> 
+  
+<div><a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://jesacalin.github.io/img-repo/photoshop.png" alt="Photoshop" height="25" /></a><span>  Photoshop</span></div>
   
 <div><a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img style="margin: 10px" src="https://jesacalin.github.io/img-repo/lightroom.png" alt="Lightroom" height="25" /></a><span>  Lightroom</span></div>  
 
