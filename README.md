@@ -11,7 +11,7 @@
 - 😃 Open to freelance and full-time opportunities in web development. Get in touch!  
   
 
-- 📚 Currently learning TypeScript and React.  
+- 📚 Currently learning React & SQL.  
   
 
 - ❓ Ask me how my HackerRank 30 Days of Code journey is going... Please bring popcorn!  
