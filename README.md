@@ -50,12 +50,14 @@
 
 <br/>  
 
+ 
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=JesacaLin&show_icons=true&count_private=true&hide_border=true&theme=swift" align="center" /></div>  
 <br>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesacaLin&layout=compact)" align="center" /></div>  
-
+<div align="center"><img src="https://streak-stats.demolab.com?user=JesacaLin&theme=tokyonight_duo)](https://git.io/streak-stats)" align="center" /></div>
+ <br>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesacaLin&layout=compact)" align="center" /></div>    
 <br/>  
 
 ## Connect with me  
