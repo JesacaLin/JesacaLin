@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hello, my name is Jesaca and I am an agile full stack developer with a strong background in photography, graphic design and UI/UX design. My passion is creating innovative applications that solve real-world problems and improve people's lives. As a photo editor and producer with over a decade of experience, I have the ability to bring ideas to life and deliver polished, functional products by building both the frontend and backend of an application.<br><br>When I'm not coding, I enjoy archery and learning about wilderness survival - and I'm proud to say I was able to start a fire with flint on my first try! <br><br></div>  
+### <div align="center">Hello, my name is Jesaca and I am a full stack developer with a strong background in photography, graphic design and UI/UX design. My passion is creating innovative applications that solve real-world problems and improve people's lives. As a photo editor and producer with over a decade of experience, I have the ability to bring ideas to life and deliver polished, functional products by building both the frontend and backend of an application.<br><br>When I'm not coding, I enjoy archery and learning about wilderness survival - and I'm proud to say I was able to start a fire with flint on my first try! <br><br></div>  
   <br>
 
 - 🐯 My current project is Dev Kitty, a full stack interview prep application for fellow developers. 👉 [Here](https://github.com/JesacaLin/dev-kitty)  
