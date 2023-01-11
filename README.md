@@ -27,8 +27,6 @@
 <div><a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://jesacalin.github.io/img-repo/css.png" alt="CSS3" height="36" /></a><span>  CSS 3</span></div> 
   
 <div><a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://jesacalin.github.io/img-repo/js-2.svg" alt="JavaScript" height="27" /></a><span>    JavaScript</span></div> 
- 
-<div><a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://jesacalin.github.io/img-repo/tailwind.svg" alt="Tailwind CSS" height="35" /></a><span> Tailwind CSS</span></div>
   
 <div><a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://jesacalin.github.io/img-repo/bootstrap.svg" alt="Bootstrap" height="30" /></a><span>  Bootstrap</span> </div>
 
