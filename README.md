@@ -19,15 +19,13 @@
 
 ## My Skill Set  
 <br>
-
 <div align="center">  
   
 <div>JavaScript | HTML 5 | CSS 3 | Bootstrap 5 | Node JS | Express</div> 
 <br>
 <div>MongoDB | Supabase | Git | Figma | Photoshop | CMS</div>
-
-<br/>  
-
+  
+</div>
  
 
 ## Github Stats  
