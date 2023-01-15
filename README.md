@@ -8,9 +8,9 @@
 
 - 🐯 Currently working on <b>KATALOG</b>, a full-stack talent directory app that allows creative teams to easily find and organize top talent through location-based searching and a unique upvoting and downvoting system. 👉 [Here]([https://github.com/JesacaLin/katalog](https://github.com/JesacaLin/katalog))  
   
-- 📚 Actively learning React & Postgres and sharpening my skills through frequent coding challenges.
+- 📚 Actively learning <b>React</b> & <b>Postgres</b> and sharpening my skills through frequent coding challenges.
 
-- 😃 Open to freelance and full-time opportunities in web development. 
+- 😃 Open to freelance and full-time opportunities in software development. 
 
 <br/>  
 
