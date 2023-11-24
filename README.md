@@ -6,9 +6,9 @@
 Hello, my name is Jesaca and I am a full stack developer with a strong background in photography, graphic design and UI/UX design. My passion is creating innovative applications that solve real-world problems and improve people's lives. As a photo editor and producer with over a decade of experience, I have the ability to bring ideas to life and deliver polished, functional products by building both the frontend and backend of an application.<br><br>
 When I'm not coding, I enjoy archery and learning about wilderness survival - and I'm proud to say I was able to start a fire with flint on my first try! <br><br></div>
 
-- 🐯 Currently working on **KATALOG**, a full-stack talent directory app that allows creative teams to easily find and organize top talent through location-based searching and a unique upvoting and downvoting system.
+- 🐯 Currently working on **KATALOG**, a full-stack talent directory app that allows creative teams to easily find and organize top talent through location-based searching and a unique upvoting and downvoting system. Deployed to the team of Photo Editors at New York Post. Link available upon request.
 
-- 📚 Actively learning **Java** & **SQL** and sharpening my skills through frequent coding challenges.
+- 📚 Actively learning **Java**, **SQL** and incorporating **AI** into projects. Continually sharpening my skills through frequent coding challenges and AI implementations.
 
 - 😃 Open to freelance and full-time opportunities in software development.
 
@@ -19,9 +19,9 @@ When I'm not coding, I enjoy archery and learning about wilderness survival - an
 <br>
 <div align="center">
   
-<div>React | JavaScript | HTML 5 | CSS 3 | Bootstrap 5 | Node JS | Express</div>
+<div>Java | React | JavaScript | HTML 5 | CSS 3 | Bootstrap 5 | Node JS | Express</div>
 <br>
-<div>MongoDB | Supabase | Git | Figma | Photoshop | CMS</div>
+<div>PostgreSQL DB (Supabase) | Azure (Cognitive Services) | OpenAI API (Dall-E 3) | Git | Figma | Photoshop | CMS</div>
   
 </div>
 
