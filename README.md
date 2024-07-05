@@ -19,7 +19,7 @@ When I'm not coding, I enjoy archery and learning about wilderness survival - an
 <br>
 <div align="center">
   
-<div>Java | React | JavaScript | HTML 5 | CSS 3 | Bootstrap 5 | Node JS | Express</div>
+<div>Java | Spring Boot | Vue | JavaScript | HTML 5 | CSS 3 | Bootstrap 5 | Node JS | Express</div>
 <br>
 <div>PostgreSQL DB (Supabase) | Azure (Cognitive Services) | OpenAI API (Dall-E 3) | Git | Figma | Photoshop | CMS</div>
   
