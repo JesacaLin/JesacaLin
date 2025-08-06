@@ -8,7 +8,7 @@ When I'm not coding, I enjoy archery and learning about wilderness survival - an
 
 - 🐯 Currently working on **KATALOG**, a full-stack talent directory app that allows creative teams to easily find and organize top talent through location-based searching and a unique upvoting and downvoting system. Deployed to the team of Photo Editors at the New York Post. Link available upon request.
 
-- 📚 Actively learning **Java**, **SQL** and incorporating **AI** into projects. Continually sharpening my skills through frequent coding challenges and AI implementations.
+- 📚 Actively learning **Python** and incorporating **AI** into projects. Continually sharpening my skills through frequent coding challenges and AI implementations.
 
 - 😃 Open to freelance and full-time opportunities in software development.
 
